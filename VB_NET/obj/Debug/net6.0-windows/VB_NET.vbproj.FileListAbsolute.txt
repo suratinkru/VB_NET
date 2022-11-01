@@ -40,3 +40,4 @@ E:\Outside_work\Hospital\VB_NET\VB_NET\obj\Debug\net6.0-windows\VB_NET.For_emplo
 E:\Outside_work\Hospital\VB_NET\VB_NET\obj\Debug\net6.0-windows\VB_NET.For_employees2.resources
 E:\Outside_work\Hospital\VB_NET\VB_NET\obj\Debug\net6.0-windows\VB_NET.Outpatient.resources
 E:\Outside_work\Hospital\VB_NET\VB_NET\obj\Debug\net6.0-windows\VB_NET.Patient_details.resources
+E:\Outside_work\Hospital\VB_NET\VB_NET\obj\Debug\net6.0-windows\VB_NET.Patient_details_page.resources
