@@ -36,3 +36,7 @@ C:\Users\User\Documents\UI\VB_NET\VB_NET\obj\Debug\net6.0-windows\VB_NET.genrunt
 C:\Users\User\Documents\UI\VB_NET\VB_NET\obj\Debug\net6.0-windows\ref\VB_NET.dll
 E:\Outside_work\Hospital\VB_NET\VB_NET\obj\Debug\net6.0-windows\VB_NET.Login.resources
 E:\Outside_work\Hospital\VB_NET\VB_NET\obj\Debug\net6.0-windows\VB_NET.Main_page.resources
+E:\Outside_work\Hospital\VB_NET\VB_NET\obj\Debug\net6.0-windows\VB_NET.For_employees.resources
+E:\Outside_work\Hospital\VB_NET\VB_NET\obj\Debug\net6.0-windows\VB_NET.For_employees2.resources
+E:\Outside_work\Hospital\VB_NET\VB_NET\obj\Debug\net6.0-windows\VB_NET.Outpatient.resources
+E:\Outside_work\Hospital\VB_NET\VB_NET\obj\Debug\net6.0-windows\VB_NET.Patient_details.resources
