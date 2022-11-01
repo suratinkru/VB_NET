@@ -34,3 +34,5 @@ C:\Users\User\Documents\UI\VB_NET\VB_NET\obj\Debug\net6.0-windows\refint\VB_NET.
 C:\Users\User\Documents\UI\VB_NET\VB_NET\obj\Debug\net6.0-windows\VB_NET.pdb
 C:\Users\User\Documents\UI\VB_NET\VB_NET\obj\Debug\net6.0-windows\VB_NET.genruntimeconfig.cache
 C:\Users\User\Documents\UI\VB_NET\VB_NET\obj\Debug\net6.0-windows\ref\VB_NET.dll
+E:\Outside_work\Hospital\VB_NET\VB_NET\obj\Debug\net6.0-windows\VB_NET.Login.resources
+E:\Outside_work\Hospital\VB_NET\VB_NET\obj\Debug\net6.0-windows\VB_NET.Main_page.resources
